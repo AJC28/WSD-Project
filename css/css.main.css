@@ -1,0 +1,142 @@
+body{ 
+  width: 795px; 
+  border: 2px solid red;
+  padding: 5px; 
+  margin: 0 auto;
+  background-color: #CCC;
+  background-image: url(" ../images1/russia.jpg");
+  background-repeat: no-repeat; 
+  background-position: top;  
+  }
+ { 
+ font-family: "Noteworthy-light";
+}
+ul,ol { text-alighn: center;
+}
+
+.main-title{ 
+  font-family: "engravers mt"; 
+  color: red; 
+
+  text-align: center;
+ 
+  text-decoration: underline;
+ 
+  text-shadow: 2px 2px 2px #111;
+ }
+ 
+ a:link {
+   color: red;
+ }
+ 
+ a:visited { 
+   color: black;
+ }
+ 
+ a:hover{
+   color: white;
+ }
+ 
+ a:active{
+   color: gray;
+ }
+ 
+ 
+li{
+  color: black;
+ }
+
+h2,h3,h4,h5 { 
+  font-family: "engravers mt";
+} 
+
+ul {
+  list-style-type: none; 
+}
+img {
+  border: solid 4px red;
+  
+}
+#img1{
+  margin-left:360px; margin-bottom: 5px;
+  float: left;
+}
+#img2 {
+  margin-bottom: 10px; 
+  margin-top: 19px;
+}
+
+.title4{ 
+  margin-top: 45px;
+  clear: left;
+}
+.title5 {
+  margin-top: 45px;
+}
+.lastp{
+  margin-top: 45px;
+ 
+}
+
+
+#wepons {
+clear: left;
+  width: 440px;
+}
+.opening{
+  float: left;
+}
+
+#title3{
+  width: 400px;
+
+}
+#listspecs{
+ clear: right;
+ width: 330px;
+}
+
+.variants {
+  margin-top: 45px;
+  width: 440px;
+  float: left;  
+}
+
+.TGA {
+background: red; 
+width: 53px; 
+font-family: Baskerville; 
+border: solid 2px black; 
+}
+
+a{
+  font-family: "engravers mt";
+  
+}
+#nav{
+  list-style:none;
+  padding: 0;
+  margin: 0 auto;
+  margin-top: 5px; 
+  width: 500px;
+  background: white; 
+  overflow: hidden;  
+} 
+
+#nav li{
+  width: 100px;
+  background:silver;
+  float: left;
+  color: red;
+  height: 30px;
+  line-height: 30px;
+  border: solid red 2px;
+  padding: 3px;  
+  margin-left: 45px; 
+  margin-top: 5px;
+}
+
+
+
+
+
