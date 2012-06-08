@@ -117,5 +117,12 @@ border: solid 2px black;
 
 #nav{
  font-family: Baskerville; red; 14px;
-}
+ background: white;
+ margin: 0;
+ }
+ {
+ width: 100px;
+ float: left;
+ }
+
 
